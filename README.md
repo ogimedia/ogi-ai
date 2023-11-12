@@ -45,7 +45,7 @@ Please refer to the Wiki.
 - Windows: run the `windows_run.bat` from the Installer.
 - Linux: `python run.py`
 
-<a target="_blank" href="https://colab.research.google.com/github/ogimedia/ogi-ai/blob/main/ogi-ai.ipynb">
+<a target="_blank" href="https://ogi.ro/ogi-ai/ogi-ai.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
   
